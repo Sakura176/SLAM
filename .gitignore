@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 **/build/
+=======
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+>>>>>>> ec162e417c908bbe57f9cc432c53fc8835f012f0
