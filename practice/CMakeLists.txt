@@ -14,3 +14,6 @@ target_link_libraries(question_1 ${OpenCV_LIBS})
 add_executable( question_2 question_2.cpp)
 target_link_libraries(question_2 ${OpenCV_LIBS})
 include_directories("/usr/include/eigen3")
+
+add_executable( question_3 question_3.cpp)
+target_link_libraries(question_3 ${OpenCV_LIBS})
